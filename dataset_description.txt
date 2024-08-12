@@ -1,0 +1,43 @@
+CREDIT CARD DETAILS:
+--------------------
+Client_Num: Unique identifier for each customer.
+Card_Category: The category of the credit card (e.g., Blue, Gold, etc.).
+Annual_Fees: The annual fee charged for the credit card.
+Activation_30_Days: Indicates whether the card was activated within 30 days (1 for Yes, 0 for No).
+Customer_Acq_Cost: Cost incurred to acquire the customer.
+Week_Num: Week number during which the data was recorded.
+Week_Num2: Another representation of the week number, possibly used for different time-based analysis.
+Qtr: The quarter of the year in which the data was recorded (e.g., Q1, Q2).
+current_year: The year in which the data was recorded.
+Credit_Limit: The credit limit assigned to the customer.
+Total_Revolving_Bal: Total revolving balance on the credit card.
+Total_Trans_Amt: Total amount transacted using the credit card.
+Total_Trans_Vol: Total number of transactions made using the credit card.
+Avg_Utilization_Ratio: The average utilization ratio of the credit limit.
+Use Chip: Indicates whether the transaction was made using a chip, swipe, or online.
+Exp Type: The type of expense (e.g., Travel, Entertainment, Grocery).
+Interest_Earned: The amount of interest earned from the customer's credit card usage.
+Delinquent_Acc: Indicates whether the customer has a delinquent account (1 for Yes, 0 for No).
+
+
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+
+
+CUSTOMER DETAILS:
+-----------------
+Client_Num: Unique identifier for each customer.
+Customer_Age: The age of the customer.
+Gender: Gender of the customer (M for Male, F for Female).
+Dependent_Count: The number of dependents the customer has.
+Education_Level: The highest level of education attained by the customer (e.g., Graduate, Uneducated).
+Marital_Status: The marital status of the customer (e.g., Single, Married).
+state_cd: The state code where the customer resides.
+Zipcode: The postal code of the customer's residence.
+Car_Owner: Indicates whether the customer owns a car (yes or no).
+House_Owner: Indicates whether the customer owns a house (yes or no).
+Personal_loan: Indicates whether the customer has a personal loan (yes or no).
+contact: The preferred contact method for the customer (e.g., cellular, unknown).
+Customer_Job: The occupation of the customer (e.g., Businessman, Self-employed).
+Income: The annual income of the customer.
+Cust_Satisfaction_Score: A score representing the customer's satisfaction level, likely on a scale (e.g., 1 to 5).
