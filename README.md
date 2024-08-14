@@ -1,5 +1,5 @@
 # 💳🧑‍💻 Credit & Customer Dashboards using Power BI
-
+![shutterstock_1696263217_edited]()
 
 ## 👉 Project Overview
 The objective of this project is to develop a comprehensive credit card dashboard that delivers real-time insights into critical performance metrics, trends, and customer details. This dashboard will empower stakeholders to effectively monitor and analyze credit card operations, ensuring informed decision-making and operational efficiency.
@@ -39,6 +39,8 @@ For more detailed information about the datasets, please refer to the [Dataset D
 
 
 ## 📝 Dashboard Insights
+![shutterstock_1696263217_edited]()
+![shutterstock_1696263217_edited]()
 
 👉 **Blue Cards:** Top revenue generators with the highest transaction volume.
 
@@ -64,17 +66,9 @@ For more detailed information about the datasets, please refer to the [Dataset D
 
 
 
-<!-- ## 👉 Streamlit App
-
-<div style="display:flex; justify-content:space-between;">
-  <img src="https://github.com/Bineet117/Laptop-Price-Prediction/assets/118985862/8a41b119-1914-46cf-b24d-6ae779ca9517" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/Bineet117/Laptop-Price-Prediction/assets/118985862/12cfd0c6-40b8-45de-90ad-459f7ace49d7" alt="Screenshot 2" width="400"/>
-</div> -->
-
 
 ## 👉 Contact_Information
 For any questions or feedback, please contact me at bineetgupta117@gmail.com📧.
 
 
-<!-- ## 👉 Conclusion
-This project aims to provide a user-friendly interface for predicting laptop prices, leveraging machine learning techniques. -->
+
