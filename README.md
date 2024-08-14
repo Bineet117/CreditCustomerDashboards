@@ -1,4 +1,4 @@
-# 💳🧑‍💻 Customer CreditCard Dashboards using Power BI
+# 💳🧑‍💻 Customer Credit Card Dashboards using Power BI
 ![Credit & Customer](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/credit_card_image.jpg)
 
 ## 🔎 Project Overview
@@ -68,7 +68,7 @@ For more detailed information about the datasets, please refer to the [Dataset D
 
 
 ## 📩 Contact_Information
-For any questions or feedback, please contact me at bineetgupta117@gmail.com📧.
+For any questions or feedback, please contact me at bineetgupta117@gmail.com 📧.
 
 
 
