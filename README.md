@@ -6,30 +6,15 @@ The objective of this project is to develop a comprehensive credit card dashboar
 
 
 
-<!-- ## 👉 Data_Description
+## 📊 Dataset Description
 
-🚀 **Company :** Name of the Company
+### Credit Card Details Dataset
+`Client_Num`, `Card_Category`, `Annual_Fees`, `Activation_30_Days`, `Customer_Acq_Cost`, `Week_Num`, `Week_Num2`, `Qtr`, `current_year`, `Credit_Limit`, `Total_Revolving_Bal`, `Total_Trans_Amt`, `Total_Trans_Vol`, `Avg_Utilization_Ratio`, `Use Chip`, `Exp Type`, `Interest_Earned`, `Delinquent_Acc`
 
-🚀 **TypeName :** Type of laptop('Notebook', 'Gaming', 'Ultrabook', '2 in 1 Convertible', 'Workstation', 'Netbook')
+### Customer Details Dataset
+`Client_Num`, `Customer_Age`, `Gender`, `Dependent_Count`, `Education_Level`, `Marital_Status`, `state_cd`, `Zipcode`, `Car_Owner`, `House_Owner`, `Personal_loan`, `contact`, `Customer_Job`, `Income`, `Cust_Satisfaction_Score`
 
-🚀 **Inches :** Size of the laptop(floating value)
-
-🚀 **ScreenResolution :** The resolution of the laptop screen.
-
-🚀 **Cpu :** The processor (CPU) specifications of the laptop.
-
-🚀 **Ram :** The amount of RAM (random-access memory) in the laptop.
-
-🚀 **Memory :** The storage capacity or type of memory (e.g., SSD, HDD) in the laptop.
-
-🚀 **Gpu :** The graphics processor (GPU) specifications of the laptop.
-
-🚀 **OpSys :** The operating system installed on the laptop.
-
-🚀 **Weight :** The weight of the laptop, usually in kilograms or pounds.
-
-🚀 **Price :** The price of the laptop, which is the target variable for prediction. -->
-
+For more detailed information about the datasets, please refer to the [Dataset Description]("https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95aa94e5404811e66a37855e6a0e022333860188/dataset_description.txt").
 
 
 
