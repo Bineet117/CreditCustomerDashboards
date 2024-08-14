@@ -40,35 +40,26 @@ For more detailed information about the datasets, please refer to the [Dataset D
 
 ## 📝 Dashboard Insights
 
-1. **Blue Cards:**
-   - Top revenue generators with the highest transaction volume.
+👉 **Blue Cards:** Top revenue generators with the highest transaction volume.
 
-2. **Total Revenue:**
-   - Generated **$55.3 million**, indicating a large and active customer base.
+👉 **Total Revenue:** Generated **$55.3 million**, indicating a large and active customer base.
 
-3. **Bills:**
-   - Largest expense category, contributing **$14 million** to overall credit card revenue.
+👉 **Bills:** Largest expense category, contributing **$14 million** to overall credit card revenue.
 
-4. **Swipe Transactions:**
-   - Lead revenue generation, contributing **$35 million** and making up the largest share of credit card revenue.
+👉 **Swipe Transactions:** Lead revenue generation, contributing **$35 million** and making up the largest share of credit card revenue.
 
-5. **Online Transactions:**
-   - Generate **$3 million** in revenue, indicating they comprise a smaller portion of the overall revenue.
+👉 **Online Transactions:** Generate **$3 million** in revenue, indicating they comprise a smaller portion of the overall revenue.
 
-6. **Top Spenders (Age 40-50):**
-   - This age group generates **$24 million** in revenue.
+👉 **Top Spenders (Age 40-50):** This age group generates **$24 million** in revenue.
 
-7. **Top Spenders (Businessmen):**
-   - Businessmen generate **$17 million** in revenue.
+👉 **Top Spenders (Businessmen):** Businessmen generate **$17 million** in revenue.
 
-8. **Gender Revenue Contribution:**
-   - Males contribute **$31 million**, while females contribute **$26 million**.
+👉 **Gender Revenue Contribution:** Males contribute **$31 million**, while females contribute **$26 million**.
 
-9. **Female Transaction Volume:**
-   - Typically lower than that of males.
+👉 **Female Transaction Volume:** Typically lower than that of males.
 
-10. **Third Quarter:**
-    - Recorded the highest revenue among all quarters.
+👉 **Third Quarter:** Recorded the highest revenue among all quarters.
+
 
 
 
