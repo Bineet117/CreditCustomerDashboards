@@ -39,8 +39,8 @@ For more detailed information about the datasets, please refer to the [Dataset D
 
 
 ## 📝 Dashboard Insights
-![First_image](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/Credit_Card_Dashboard_1.png)
-![Second_image](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/Credit_Card_Dashboard_2.png)
+![first_insight](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/fc7ce08a7cfcdb44d6c410b08f8f4e6b6445473a/Images/Credit_Card_Dashboard_1.png)
+![second_insight](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/fc7ce08a7cfcdb44d6c410b08f8f4e6b6445473a/Images/Credit_Card_Dashboard_2.png)
 
 👉 **Blue Cards:** Top revenue generators with the highest transaction volume.
 
