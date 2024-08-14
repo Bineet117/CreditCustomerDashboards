@@ -1,5 +1,5 @@
-# 💳🧑‍💻 Credit & Customer Dashboards using Power BI
-![shutterstock_1696263217_edited]()
+# 💳🧑‍💻 Customer CreditCard Dashboards using Power BI
+![Credit & Customer](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/credit_card_image.jpg)
 
 ## 👉 Project Overview
 The objective of this project is to develop a comprehensive credit card dashboard that delivers real-time insights into critical performance metrics, trends, and customer details. This dashboard will empower stakeholders to effectively monitor and analyze credit card operations, ensuring informed decision-making and operational efficiency.
@@ -39,8 +39,8 @@ For more detailed information about the datasets, please refer to the [Dataset D
 
 
 ## 📝 Dashboard Insights
-![shutterstock_1696263217_edited]()
-![shutterstock_1696263217_edited]()
+![First_image](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/Credit_Card_Dashboard_1.png)
+![Second_image](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/Credit_Card_Dashboard_2.png)
 
 👉 **Blue Cards:** Top revenue generators with the highest transaction volume.
 
