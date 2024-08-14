@@ -14,7 +14,7 @@ The objective of this project is to develop a comprehensive credit card dashboar
 ### Customer Details Dataset
 `Client_Num`, `Customer_Age`, `Gender`, `Dependent_Count`, `Education_Level`, `Marital_Status`, `state_cd`, `Zipcode`, `Car_Owner`, `House_Owner`, `Personal_loan`, `contact`, `Customer_Job`, `Income`, `Cust_Satisfaction_Score`
 
-For more detailed information about the datasets, please refer to the [Dataset Description]("https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95aa94e5404811e66a37855e6a0e022333860188/dataset_description.txt").
+For more detailed information about the datasets, please refer to the [Dataset Description](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95aa94e5404811e66a37855e6a0e022333860188/dataset_description.txt).
 
 
 
