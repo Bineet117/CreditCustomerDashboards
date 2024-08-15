@@ -1,9 +1,10 @@
 # 💳🧑‍💻 Customer Credit Card Dashboards using Power BI
 ![Credit & Customer](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/credit_card_image.jpg)
+<br>
 
 ## 🔎 Project Overview
 The objective of this project is to develop a comprehensive credit card dashboard that delivers real-time insights into critical performance metrics, trends, and customer details. This dashboard will empower stakeholders to effectively monitor and analyze credit card operations, ensuring informed decision-making and operational efficiency.
-
+<br>
 
 
 ## 📊 Dataset Description
@@ -19,7 +20,7 @@ The objective of this project is to develop a comprehensive credit card dashboar
 [Customer Details](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/07ee47e0e7acfe76e94693609e5775a8c7a4aee8/cust_detail.csv)
 
 For more detailed information about the datasets, please refer to the [Dataset Description](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95aa94e5404811e66a37855e6a0e022333860188/dataset_description.txt).
-
+<br>
 
 
 
@@ -34,13 +35,14 @@ For more detailed information about the datasets, please refer to the [Dataset D
 - [**KPI**](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a#kpi)
 - [**Card**](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a#cards)
 - [**Treemap**](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a#treemaps)
-
+<br>
 
 
 
 ## 📝 Dashboard Insights
 ![first_insight](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/fc7ce08a7cfcdb44d6c410b08f8f4e6b6445473a/Images/Credit_Card_Dashboard_1.png)
 ![second_insight](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/fc7ce08a7cfcdb44d6c410b08f8f4e6b6445473a/Images/Credit_Card_Dashboard_2.png)
+<br>
 
 👉 **Blue Cards:** Top revenue generators with the highest transaction volume.
 
@@ -61,7 +63,7 @@ For more detailed information about the datasets, please refer to the [Dataset D
 👉 **Female Transaction Volume:** Typically lower than that of males.
 
 👉 **Third Quarter:** Recorded the highest revenue among all quarters.
-
+<br>
 
 
 
