@@ -1,6 +1,6 @@
 # 💳🧑‍💻 Customer Credit Card Dashboards using Power BI
 ![Credit & Customer](https://github.com/Bineet117/Customer_CreditCard_Dashboards/blob/95dd5bdcc16bb84b1eaebb4b8e97d9f415cc1c41/Images/credit_card_image.jpg)
-<br>
+<p>&nbsp;</p>
 
 ## 🔎 Project Overview
 The objective of this project is to develop a comprehensive credit card dashboard that delivers real-time insights into critical performance metrics, trends, and customer details. This dashboard will empower stakeholders to effectively monitor and analyze credit card operations, ensuring informed decision-making and operational efficiency.
